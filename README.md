@@ -1,9 +1,9 @@
 
 # Hello 👋
-I am a Chief Technology Officer at [@Compile](https://atcompile.com/), where I specialize in solving complex problems and managing full-time teams.
+I am a Chief Technology Officer [@Compile](https://atcompile.com/), where I specialize in solving complex problems and managing full-time teams.
 
 - 👋 Email me [here](mailto://alfie.gosling@atcompile.com) for any inquiries.
-- ✍️ Follow me on [X](https://x.com/alfiegnu) for more information about myself.
+- ✍️ Follow me on [X](https://x.com/alfiegnu) for more information.
 
 ---
 
@@ -18,10 +18,10 @@ I am a Chief Technology Officer at [@Compile](https://atcompile.com/), where I s
     <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white" alt="Python">
   </a>
   <a href="https://www.java.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  </a> -->
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  </a>
   <a href="https://www.kotlinlang./" target="_blank">
-    <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+    <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
   </a>
   <a href="https://html.com/" target="_blank">
     <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML">
@@ -33,9 +33,9 @@ I am a Chief Technology Officer at [@Compile](https://atcompile.com/), where I s
     <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
   </a>
   <a href="https://spring.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=whit" alt="Spring Boot">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=whit" alt="Spring Boot">
   </a>
 </p>
