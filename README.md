@@ -1,6 +1,6 @@
 
 # Hello 👋
-I am a Chief Technology Officer [VCS](https://vcs.ai/), where I specialize in solving complex problems and managing full-time teams.
+I am a Chief Technology Officer at [VCS](https://vcs.ai/), where I specialize in solving complex problems and managing full-time teams.
 
 - 👋 Email me [here](mailto://alfie.gosling@vcs.ai) for any inquiries.
 - ✍️ Follow me on [X](https://x.com/alfiegnu) for more information.
